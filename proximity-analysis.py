@@ -5,8 +5,8 @@
 # | This is a notebook for the fifth lesson of the kaggle course
 # | ["Geospatial Analysis"](https://www.kaggle.com/learn/geospatial-analysis)
 # | offered by Alexis Cook and Jessica Li. The main goal of the lesson is
-# | to get used to __Proximity Analysis__, using `geopandas` methods such as
-# | `.distance`, `.contains` or `.within`. We also learn how to use
+# | to get used to __Proximity Analysis__, using `geopandas` methods
+# | `.distance`. We also learn how to use
 # | `.unary_union` to connect multiple `POLYGON`s into one.
 
 # | ## 1. Task
