@@ -2,7 +2,7 @@
 # | # Geospatial Data Exercise
 # |------------------------------------------------------------------
 # |
-# | This is an exercise notebook for the fifth lesson of the kaggle course
+# | This is a notebook for the fifth lesson of the kaggle course
 # | ["Geospatial Analysis"](https://www.kaggle.com/learn/geospatial-analysis)
 # | offered by Alexis Cook and Jessica Li. The main goal of the lesson is
 # | to get used to __Proximity Analysis__, using `geopandas` methods such as
@@ -12,7 +12,7 @@
 # | ## 1. Task
 # |
 # | Every year certain amount of toxic chemicals are accidentally
-# | released to the environment by industrial facilities and other. 
+# | released to the environment by industrial facilities and other.
 # | Check if at least one monitoring station exists
 # | within 2 miles of such events, using the historical record.
 # | The information will be used to make a decision where to set up next

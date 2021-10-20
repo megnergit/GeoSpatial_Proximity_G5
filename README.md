@@ -1,6 +1,6 @@
 # Geospatial Data Exercise G5
 
-This is an exercise notebook for the fifth lesson of the kaggle course
+This is a notebook for the fifth lesson of the kaggle course
 ["Geospatial Analysis"](https://www.kaggle.com/learn/geospatial-analysis)
 offered by Alexis Cook and Jessica Li. The main goal of the lesson is
 to get used to __Proximity Analysis__, using `geopandas` methods such as
